@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-pytest
 Flask
-gunicorn
-=======
 pytest
-Flask
 gunicorn
->>>>>>> 7bf9d837632469a94a5792dd4224c068c575534d
